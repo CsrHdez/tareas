@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.bg-yellow {
+    background-color: #fff059;
+}
+.bg-gray {
+    background-color: ghostwhite;
+}
+.bg-white {
+    background-color: white;;
+}
+
+header {
+    padding: 10px 15px;
+}
+.cuadro {
+    height: 250px;
+}
+.card {
+    width: 30%;
+    margin: -125px auto 0 auto;
+    border-radius: 10px;
+    padding: 25px 40px;
+}
+
+h1 {
+    text-align: center;
+    padding: 0 15px;
+}
+
+.btn {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px 0;
+    color: #3483fa;
+}
+.btn-blue {
+    background-color: #3483fa;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    padding: 1.4em;
+}
+footer p {
+    color: gainsboro;
+}
